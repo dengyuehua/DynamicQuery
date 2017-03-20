@@ -1,0 +1,6 @@
+*/obj/*
+*/bin/*
+src/DynamicQuery.EntityFrameworkCore/bin/
+src/DynamicQuery.EntityFrameworkCore/obj/
+src/DynamicQuery/obj/
+src/DynamicQuery/bin/

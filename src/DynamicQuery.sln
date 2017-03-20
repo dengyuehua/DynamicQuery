@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicQuery", "DynamicQuery\DynamicQuery.csproj", "{68EA81C9-7C0D-40B1-B84A-0A9549886023}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicQuery.EntityFrameworkCore", "DynamicQuery.EntityFrameworkCore\DynamicQuery.EntityFrameworkCore.csproj", "{62E9B18A-86CA-4682-B0B8-0988D7667835}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AEA69098-D06A-48AD-BA84-A208FF1B4309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EA81C9-7C0D-40B1-B84A-0A9549886023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EA81C9-7C0D-40B1-B84A-0A9549886023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EA81C9-7C0D-40B1-B84A-0A9549886023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EA81C9-7C0D-40B1-B84A-0A9549886023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E9B18A-86CA-4682-B0B8-0988D7667835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E9B18A-86CA-4682-B0B8-0988D7667835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E9B18A-86CA-4682-B0B8-0988D7667835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E9B18A-86CA-4682-B0B8-0988D7667835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68EA81C9-7C0D-40B1-B84A-0A9549886023} = {AEA69098-D06A-48AD-BA84-A208FF1B4309}
+		{62E9B18A-86CA-4682-B0B8-0988D7667835} = {AEA69098-D06A-48AD-BA84-A208FF1B4309}
+	EndGlobalSection
+EndGlobal
